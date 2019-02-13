@@ -29,7 +29,7 @@ int main()
   cout << "Enter cordinate x y z in format x,y,z";
   cin >> x >> temp >> y>> temp >> z;
   Coordinate a(x,y,z);
-  cout << "Enter cordinate x y in format x,y";
+  cout << "Enter cordinate x y z in format x,y,z";
   cin >> x >> temp >> y >> temp >>z;
   Coordinate b(x,y,z);
   cout << "sum is";

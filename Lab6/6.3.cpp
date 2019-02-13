@@ -22,10 +22,10 @@ class Musicians
   void wind(){
 
     str[1][0]="flute";
-    str[1][1]="mridangam";
-    str[1][2]="bangos";
-    str[1][3]="drums";
-    str[1][4]="tambour";
+    str[1][1]="clarinet";
+    str[1][2]="saxophone";
+    str[1][3]="nadhaswaram";
+    str[1][4]="piccolo";
     cout<< "wind instrument has been initialized to" << endl;
     for(int i = 0 ; i < 5; i++)
     {
